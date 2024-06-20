@@ -6,13 +6,14 @@
 ## -- Script pour convertir les boîtes mail PST ou OST en eml et renommer tous les fichiers eml avec horodatage, date du mail --
 
 
+
 # Pré-requis :  
 ```
 sudo apt-get install -y readpst
 ```
 # Nota :
 :radio_button: Vous pourvez modifier le nombre de CPU en haut du script car le programme a été adapté pour fonctionner en multithreads.
-  
+:radio_button: Récupérer le script dans la dernière Release et non pas en haut de cette page.  
 
 # Exécution du script :  
 ```
