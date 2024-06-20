@@ -12,7 +12,7 @@
 sudo apt-get install -y readpst
 ```
 # Nota :
-:radio_button: Vous pourvez modifier le nombre de CPU en haut du script car le programme a été adapté pour fonctionner en multithreads.
+:radio_button: Vous pourvez modifier le nombre de CPU en haut du script car le programme a été adapté pour fonctionner en multithreads.  
 :radio_button: Récupérer le script dans la dernière Release et non pas en haut de cette page.  
 
 # Exécution du script :  
